@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="media/kais-game-logo.png" alt="Kai's Game logo" width="520">
-</p>
-
-<h1 align="center">Kai's Game</h1>
-
-<p align="center">
-  A challenging 3D obstacle-runner independently developed in Unity and C#.
-</p>
+<table>
+  <tr>
+    <td width="140">
+      <img src="media/kais-game-logo.png" alt="Kai's Game logo" width="120">
+    </td>
+    <td>
+      <h1> Kai's Game </h1>
+      <p>A challenging 3D obstacle-runner independently developed in Unity and C#.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="media/kais-game-trailer.mp4"><strong>Watch the GitHub Trailer</strong></a>
@@ -34,15 +36,13 @@ The current Alpha release contains ten playable levels, persistent statistics, u
 ## Screenshots
 
 <p align="center">
-  <img src="media/screenshots/blue-play.png" width="49%" alt="Blue gameplay">
-  <img src="media/screenshots/green-8.png" width="49%" alt="Green level gameplay">
+  <img src="media/screenshots/titlescreen.png" width="60%" alt="Kai's Game title screen">
 </p>
 
 <p align="center">
-  <img src="media/screenshots/full-skin-selection.png" width="49%" alt="Skin selection menu">
-  <img src="media/screenshots/stats-full.png" width="49%" alt="Player statistics screen">
+  <img src="media/screenshots/blue-ui.png" width="49%" alt="Blue UI gameplay">
+  <img src="media/screenshots/green-7.png" width="49%" alt="Green level gameplay">
 </p>
-
 ## Download
 
 The playable Windows Alpha build is available from the repository's **Releases** section.
