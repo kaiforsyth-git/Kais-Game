@@ -24,14 +24,20 @@ The current Alpha release contains ten playable levels, persistent statistics, u
 
 ## Features
 
-- Ten progressively challenging levels
-- Physics-based player movement
-- Checkpoints and level progression
-- Unlockable cosmetic skins
-- Persistent player statistics and save data
-- Custom menus, pause screen and settings
-- Developer and reviewer controls
-- Original visual effects created with Unity Shader Graph
+<table>
+  <tr>
+    <td>10 handcrafted levels</td>
+    <td>Fast-paced gameplay</td>
+    <td>13 unlockable skins</td>
+    <td>In-game skin shop</td>
+  </tr>
+  <tr>
+    <td>Music and sound effects</td>
+    <td>Full ending sequence</td>
+    <td>Pause and settings menus</td>
+    <td>Persistent save data</td>
+  </tr>
+</table>
 
 ## Screenshots
 
@@ -43,30 +49,73 @@ The current Alpha release contains ten playable levels, persistent statistics, u
   <img src="media/screenshots/blue-ui.png" width="49%" alt="Blue UI gameplay">
   <img src="media/screenshots/green-7.png" width="49%" alt="Green level gameplay">
 </p>
-## Download
 
-The playable Windows Alpha build is available from the repository's **Releases** section.
+## Download and Play
 
-1. Download the Windows ZIP file.
-2. Extract the complete folder.
-3. Launch `Kai's Game.exe`.
+1. Open the repository's **Releases** section.
+2. Download the latest Windows ZIP file.
+3. Right-click the downloaded ZIP and select **Extract All**.
+4. Open the extracted folder.
+5. Launch `Kai's Game.exe`.
 
-Windows may display a security warning because the Alpha build is not digitally signed.
+> Windows may display a security warning because the Alpha build is not digitally signed. Select **More info**, then **Run anyway**.
+
+### Controls
+
+| Action | Controls |
+|---|---|
+| Move left | `A` or `Left Arrow` |
+| Move right | `D` or `Right Arrow` |
+| Pause | `Esc` |
+
+The player moves forward automatically—stay on the course and reach the end of each level.
+
+## Developer Mode
+
+Developer Mode provides quick-access controls for testing and reviewing the game.
+
+> Press `L` to activate Developer Mode. Once activated, it remains enabled until the game is fully reset. All developer controls require Developer Mode to be active, except the full-reset command.
+
+| Function | Control |
+|---|---|
+| Activate Developer Mode | `L` |
+| Toggle obstacle immunity | `G` |
+| Unlock all skins | `U` |
+| Load Levels 1–9 | `1`–`9` |
+| Load Level 10 | `0` |
+| Fully reset the game | `Ctrl + Shift + Backspace` |
+
+> **Warning:** The full-reset command permanently deletes all saved progress, unlocked skins, statistics and settings.
 
 ## Development
 
-Kai's Game was independently designed and developed using:
+Kai's Game is a solo project independently designed, programmed, tested and polished in Unity.
+
+Development included building the skin unlocking, purchasing and selection systems; creating custom shaders and visual effects; and refining the gameplay, menus, audio and presentation into a cohesive playable experience.
+
+### Tools Used
 
 - Unity
 - C#
 - Shader Graph
 - Blender
 - DaVinci Resolve
+- Photopea
+- OBS Studio
 
-This repository contains the game's portfolio presentation, media and playable releases. The complete Unity source project is not publicly included.
+This repository contains the playable releases and portfolio media. The complete Unity source project remains private.
 
 ## Current Status
 
 **Alpha v0.1**
 
-The game is functional and playable, but additional content, balancing and visual improvements are still planned.
+The complete ten-level Normal Mode campaign is playable from beginning to end, including the current progression systems, shop, thirteen skins, and full ending sequence.
+
+Planned development includes:
+
+- Easy Mode
+- Three additional skins
+- Online leaderboard support
+- Further visual and gameplay polish
+- Additional downloadable content
+- A future Steam release
