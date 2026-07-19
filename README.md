@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="100%">
+    <td width="140">
       <img src="media/kais-game-logo.png" alt="Kai's Game logo" width="120">
     </td>
     <td>
