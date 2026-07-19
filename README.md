@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="140">
-      <img src="media/kais-game-logo.png" alt="Kai's Game logo" width="120">
+      <img src="media/kais-game-logo.png" alt="Kai's Game logo" width="320">
     </td>
     <td>
       <h1>Kai's Game</h1>
