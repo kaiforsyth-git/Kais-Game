@@ -4,8 +4,8 @@
       <img src="media/kais-game-logo.png" alt="Kai's Game logo" width="120">
     </td>
     <td>
-      <h1> Kai's Game </h1>
-      <p>A challenging 3D obstacle-runner independently developed in Unity and C#.</p>
+      <h1>Kai's Game</h1>
+      <p>A challenging 3D obstacle runner made in Unity and C#.</p>
     </td>
   </tr>
 </table>
@@ -18,22 +18,22 @@
 
 ## About the Game
 
-Kai's Game is a fast-paced 3D obstacle runner built around precise movement, increasingly difficult levels and unlockable cosmetic skins.
+Kai's Game is a fast-paced 3D obstacle runner focused on movement, timing and increasingly difficult levels.
 
-The current Alpha release contains ten playable levels, persistent statistics, unlockable rewards and developer tools for quickly reviewing the game.
+The current Alpha build includes ten playable levels, thirteen unlockable skins, an in-game shop, player statistics and a complete ending.
 
 ## Features
 
 <table>
   <tr>
-    <td>10 handcrafted levels</td>
+    <td>10 handmade levels</td>
     <td>Fast-paced gameplay</td>
     <td>13 unlockable skins</td>
     <td>In-game skin shop</td>
   </tr>
   <tr>
     <td>Music and sound effects</td>
-    <td>Full ending sequence</td>
+    <td>Complete ending sequence</td>
     <td>Pause and settings menus</td>
     <td>Persistent save data</td>
   </tr>
@@ -46,7 +46,7 @@ The current Alpha release contains ten playable levels, persistent statistics, u
 </p>
 
 <p align="center">
-  <img src="media/screenshots/blue-ui.png" width="49%" alt="Blue UI gameplay">
+  <img src="media/screenshots/blue-ui.png" width="49%" alt="Blue level gameplay">
   <img src="media/screenshots/green-7.png" width="49%" alt="Green level gameplay">
 </p>
 
@@ -54,44 +54,44 @@ The current Alpha release contains ten playable levels, persistent statistics, u
 
 1. Open the repository's **Releases** section.
 2. Download the latest Windows ZIP file.
-3. Right-click the downloaded ZIP and select **Extract All**.
+3. Right-click the ZIP file and select **Extract All**.
 4. Open the extracted folder.
 5. Launch `Kai's Game.exe`.
 
-> Windows may display a security warning because the Alpha build is not digitally signed. Select **More info**, then **Run anyway**.
+> Windows may show a security warning because the Alpha build is not digitally signed. Select **More info**, then **Run anyway**.
 
 ### Controls
 
-| Action | Controls |
+| Action | Control |
 |---|---|
 | Move left | `A` or `Left Arrow` |
 | Move right | `D` or `Right Arrow` |
 | Pause | `Esc` |
 
-The player moves forward automatically—stay on the course and reach the end of each level.
+The player moves forward automatically. Stay on the course and reach the end of each level.
 
 ## Developer Mode
 
-Developer Mode provides quick-access controls for testing and reviewing the game.
+Developer Mode allows reviewers to quickly test different parts of the game.
 
-> Press `L` to activate Developer Mode. Once activated, it remains enabled until the game is fully reset. All developer controls require Developer Mode to be active, except the full-reset command.
+> Press `L` to activate Developer Mode. Once activated, it stays enabled until the game is fully reset. All other developer controls require Developer Mode to be active.
 
 | Function | Control |
 |---|---|
 | Activate Developer Mode | `L` |
 | Toggle obstacle immunity | `G` |
 | Unlock all skins | `U` |
-| Load Levels 1–9 | `1`–`9` |
+| Load Levels 1 to 9 | `1` to `9` |
 | Load Level 10 | `0` |
 | Fully reset the game | `Ctrl + Shift + Backspace` |
 
-> **Warning:** The full-reset command permanently deletes all saved progress, unlocked skins, statistics and settings.
+> **Warning:** Fully resetting the game permanently deletes all saved progress, unlocked skins, statistics and settings.
 
 ## Development
 
-Kai's Game is a solo project independently designed, programmed, tested and polished in Unity.
+Kai's Game is a solo project that I designed, programmed, tested and polished in Unity.
 
-Development included building the skin unlocking, purchasing and selection systems; creating custom shaders and visual effects; and refining the gameplay, menus, audio and presentation into a cohesive playable experience.
+The project involved building the skin unlocking, purchasing and selection systems, creating custom shaders and effects, designing ten levels and polishing the gameplay, menus, audio and presentation.
 
 ### Tools Used
 
@@ -103,19 +103,19 @@ Development included building the skin unlocking, purchasing and selection syste
 - Photopea
 - OBS Studio
 
-This repository contains the playable releases and portfolio media. The complete Unity source project remains private.
+This repository contains the playable builds and portfolio media. The full Unity project and source files are being kept private.
 
 ## Current Status
 
 **Alpha v0.1**
 
-The complete ten-level Normal Mode campaign is playable from beginning to end, including the current progression systems, shop, thirteen skins, and full ending sequence.
+The ten-level Normal Mode campaign can be played from beginning to end. The current build includes the shop, progression systems, thirteen skins, statistics and the full ending sequence.
 
-Planned development includes:
+Planned additions include:
 
 - Easy Mode
-- Three additional skins
-- Online leaderboard support
-- Further visual and gameplay polish
+- Three more skins
+- Online leaderboards
+- More gameplay and visual polish
 - Additional downloadable content
-- A future Steam release
+- A Steam release
