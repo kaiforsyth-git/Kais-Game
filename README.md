@@ -18,26 +18,34 @@
 
 ## About the Game
 
-Kai's Game is a fast-paced 3D obstacle runner focused on movement, timing and increasingly difficult levels.
+Kai's Game is a dark and difficult 3D obstacle runner where the player guides an automatically moving ball using only left and right controls.
 
-The current Alpha build includes ten playable levels, thirteen unlockable skins, an in-game shop, player statistics and a complete ending.
+The goal is to complete all ten levels and collect every skin. Early levels are accessible to almost anyone, but the difficulty builds steadily until later levels demand route memory, fast reactions, accurate inputs and careful path optimisation.
+
+The movement is designed to feel fast, precise and flowy. Each failed attempt helps the player learn the course, improve their timing and push further into the game.
 
 ## Features
 
 <table>
   <tr>
-    <td>10 handmade levels</td>
-    <td>Fast-paced gameplay</td>
-    <td>13 unlockable skins</td>
-    <td>In-game skin shop</td>
+    <td>10 single-run levels</td>
+    <td>Fast left and right movement</td>
+    <td>Moving blocks, jumps and tunnels</td>
+    <td>Steadily increasing difficulty</td>
   </tr>
   <tr>
-    <td>Music and sound effects</td>
-    <td>Complete ending sequence</td>
-    <td>Pause and settings menus</td>
-    <td>Persistent save data</td>
+    <td>13 collectible skins</td>
+    <td>Shop and special unlocks</td>
+    <td>Custom trails, particles and effects</td>
+    <td>Detailed statistics and settings</td>
   </tr>
 </table>
+
+Players begin with the Blue skin. Seven more skins can be purchased using balls earned through deaths and level completions, while five special skins have their own unlock requirements.
+
+Several skins also include unique effects. Blood leaves a trail and explodes on death, Rainbow shifts colour over time, and other skins use custom particle effects that burst outward or pull inward.
+
+The game tracks overall deaths, deaths on each level, level completions and balls earned. Settings include resolution, fullscreen, quality, G-Sync, brightness, HUD options and separate master, music and sound-effect volume controls.
 
 ## Screenshots
 
@@ -109,13 +117,19 @@ This repository contains the playable builds and portfolio media. The full Unity
 
 **Alpha v0.1**
 
-The ten-level Normal Mode campaign can be played from beginning to end. The current build includes the shop, progression systems, thirteen skins, statistics and the full ending sequence.
+Normal Mode is playable from beginning to end and currently includes all ten levels, thirteen skins, the skin shop, player statistics, music, sound effects and a complete ending sequence.
 
-Planned additions include:
+The ending includes changing fog, slowing music and a full credits sequence rather than a basic completion screen.
 
-- Easy Mode
-- Three more skins
-- Online leaderboards
-- More gameplay and visual polish
-- Additional downloadable content
-- A Steam release
+The main game is working, but some parts will continue to be adjusted and polished during development. This includes the user interface, audio, the Blood skin effects and smaller changes across the levels and presentation.
+
+### Planned Development
+
+1. Finish the remaining skins, including Diamond and Nebula
+2. Add Easy Mode, where each death sends the player back one level
+3. Develop additional downloadable content
+4. Add online leaderboards
+5. Complete final testing and polish
+6. Publish the game on Steam
+
+The exact content and order may change as development continues.
