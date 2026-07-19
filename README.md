@@ -22,30 +22,24 @@ Kai's Game is a dark and difficult 3D obstacle runner where the player guides an
 
 The goal is to complete all ten levels and collect every skin. Early levels are accessible to almost anyone, but the difficulty builds steadily until later levels demand route memory, fast reactions, accurate inputs and careful path optimisation.
 
-The movement is designed to feel fast, precise and flowy. Each failed attempt helps the player learn the course, improve their timing and push further into the game.
+The movement is designed to feel fast and precise. Each failed attempt helps the player learn the course, improve their timing and push further into the game.
 
 ## Features
 
 <table>
   <tr>
-    <td>10 single-run levels</td>
-    <td>Fast left and right movement</td>
-    <td>Moving blocks, jumps and tunnels</td>
-    <td>Steadily increasing difficulty</td>
+    <td>10 challenging levels</td>
+    <td>Fast, precise movement</td>
+    <td>No mid-level checkpoints</td>
+    <td>Increasing difficulty</td>
   </tr>
   <tr>
     <td>13 collectible skins</td>
-    <td>Shop and special unlocks</td>
-    <td>Custom trails, particles and effects</td>
-    <td>Detailed statistics and settings</td>
+    <td>Shop and secret unlocks</td>
+    <td>Unique skin effects</td>
+    <td>Full ending sequence</td>
   </tr>
 </table>
-
-Players begin with the Blue skin. Seven more skins can be purchased using balls earned through deaths and level completions, while five special skins have their own unlock requirements.
-
-Several skins also include unique effects. Blood leaves a trail and explodes on death, Rainbow shifts colour over time, and other skins use custom particle effects that burst outward or pull inward.
-
-The game tracks overall deaths, deaths on each level, level completions and balls earned. Settings include resolution, fullscreen, quality, G-Sync, brightness, HUD options and separate master, music and sound-effect volume controls.
 
 ## Screenshots
 
