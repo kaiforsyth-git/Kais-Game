@@ -11,7 +11,7 @@
 </table>
 
 <p align="center">
-  <a href="media/kais-game-trailer.mp4"><strong>Watch the GitHub Trailer</strong></a>
+  <a href="https://github.com/kaiforsyth-git/Kais-Game/releases/latest/download/Kais-Game-Trailer.mp4"><strong>Watch the GitHub Trailer</strong></a>
   &nbsp;•&nbsp;
   <a href="https://github.com/kaiforsyth-git/kais-game/releases"><strong>Download the Windows Build</strong></a>
 </p>
